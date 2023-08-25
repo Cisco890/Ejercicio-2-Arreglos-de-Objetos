@@ -1,3 +1,10 @@
+/**
+  * Random
+ 
+  * @param String, float, int, boolean 
+  * @throws Se pide el precio, el tipo de habitación, capacidad y si está ocupada o vacía
+
+  */
 public class Habitaciones {
     private String tipohabit;
     private float precio;

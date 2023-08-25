@@ -1,4 +1,11 @@
 
+/**
+  * Random
+ 
+  * @param Strin, Int, String 
+  * @throws se le pide nombre al cliente, numero de familiares que lo acompañan y el tipo de cliente que es
+
+  */
 public class Clientes{
     private String Nombre;
     private int Numfam;

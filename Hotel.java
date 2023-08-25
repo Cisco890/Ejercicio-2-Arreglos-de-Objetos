@@ -1,3 +1,10 @@
+/**
+  * Hotel
+ 
+  * @param Clientes y habitaciones 
+  * @throws es el main del programa, acá se realizan todas las acciones de este
+
+  */
 import java.util.Scanner;
 
 public class Hotel {
